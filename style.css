@@ -2,3 +2,59 @@
   box-sizing: border-box;
 }
 
+#header {
+  background-color: #DCD1CF;
+  height: 60px;
+}
+
+#name {
+  padding: 4px;
+  font-family: 'Bellefair';
+}
+
+#web {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  font-family: 'Bellefair';
+}
+
+img {
+  width: 350px;
+  height: 220px;
+  position: absolute;
+  right: 280px;
+  top: 200px;
+  border-radius: 20px;
+}
+
+#personal {
+  background-color: #76706F;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.part1 {
+  background-color: #76706F;
+  width: 80px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.part2 {
+  background-color: #76706F;
+  width: 140px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.part3 {
+  background-color: #76706F;
+  width: 130px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+li {
+  list-style: none;
+}
